@@ -174,6 +174,12 @@
                 android:title="@string/mod_version"
                 android:summary="@string/mod_version_default" />
 
+	<!-- HammerMod version-->
+	<Preference android:key="hammermod_version"
+		style="?android:preferenceInformationStyle"
+		android:title="@string/hammermod_version_title"
+		android:summary="@string/hammermod_version_sum" />
+
         <!-- Mod build date -->
         <Preference android:key="build_date"
                 style="?android:preferenceInformationStyle"

@@ -2,6 +2,10 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
+    <!-- About HammerMod version -->
+    <string name="hammermod_version_title">HammerMod ROM Version</string>
+    <string name="hammermod_version_sum">Version 1</string>
+
     <!-- Halo -->
     <string name="halo_settings_title">Halo</string>
     <string name="halo_behavior_title">Halo Behavior</string>
